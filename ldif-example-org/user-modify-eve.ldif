@@ -1,0 +1,4 @@
+dn: cn=eve,dc=example,dc=org
+changetype: modify
+delete: objectClass
+objectClass: top

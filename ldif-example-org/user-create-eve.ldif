@@ -1,0 +1,6 @@
+dn: cn=eve,dc=example,dc=org
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+objectClass: top
+cn: eve
+userPassword: {crypt}x

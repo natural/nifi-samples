@@ -1,0 +1,16 @@
+dn: cn=alice,dc=example,dc=org
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: alice
+uid: alice
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/alice
+loginShell: /bin/bash
+gecos: alice
+userPassword: {crypt}x
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0

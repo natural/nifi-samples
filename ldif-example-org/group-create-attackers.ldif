@@ -1,0 +1,4 @@
+dn: cn=attackers,dc=example,dc=org
+objectClass: top
+objectClass: posixGroup
+gidNumber: 678
